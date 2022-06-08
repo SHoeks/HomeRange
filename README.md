@@ -30,7 +30,7 @@ PlotHistogram(data)
 MakeStatTable(data)
 
 # match with the COMBINE imputed dataset
-COMBINE <- read.csv("/Users/osx/SHoeks/FlyingRunningSwimming/Literature Search/DataHarmonization_SH/trait_data_imputed.csv")
+COMBINE <- read.csv("/path/to/combine/trait_data_imputed.csv")
 merged_data = MergeWithCOMBINE(data, COMBINE)
 
 # example plot of the merged data
