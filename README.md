@@ -1,8 +1,12 @@
-# HomeRange data repository
+# HomeRange data and R package repository
 
-This is a temporary and anonymous repository containing the HomeRange data, please do not share the link to this page.
+This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page.
 
-# The data can be access using the R package, which will be available after publication
+### To download to HomeRange data use the following link
+
+Link: https://anonymous.4open.science/r/TestData-C4A4/HR_data_harmonized_2022-05-30_V2.csv
+
+### The data can be access using the R package, which will be available after publication
 
 To install the package use the following from R
 ```r
