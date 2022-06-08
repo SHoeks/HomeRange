@@ -4,7 +4,7 @@ This is a temporary and anonymous repository containing the HomeRange data and R
 
 ### To download to HomeRange data use the following link
 
-Link: https://anonymous.4open.science/r/TestData-C4A4/HR_data_harmonized_2022-05-30_V2.csv
+Link: [https://anonymous.4open.science/r/TestData-C4A4/HR_data_harmonized_2022-05-30_V2.csv](https://anonymous.4open.science/api/repo/TestData-C4A4/file/HR_data_harmonized_2022-05-30_V2.csv)
 
 ### The data can be access using the R package, which will be available after publication
 
