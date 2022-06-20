@@ -27,6 +27,9 @@ library('HomeRange')
 
 # get the dataset, this function automatically downloads and imports the data
 data <- GetData()
+head(data)
+summary(data)
+str(data)
 
 # plotting data
 PlotMap(data)
