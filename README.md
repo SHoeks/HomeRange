@@ -2,52 +2,66 @@
 
 This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved to a permanent repository once the paper is accepted. The data will be moved to a safe data archiving and access serive like DANS Easy or Figshare.
 
-### Access the HomeRange data
+## Access the HomeRange data
 
-The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please use the link in this repository as shown in the picture below.
+The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please use the link in this repository as shown in the image below.
 
-<img src="figs/download_csv.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/download_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-### The data can be imported directly without downloading it using the R package
+## The data can be downloaded and imported directly using the R package
 
-To install the package use the following from R
+
 ```r
+# install the package use the following from R
 install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.0.0.9000.tar.gz", repos=NULL, method="libcurl")
-```
 
-These are some of the functions included in the package
-
-```r
-
-# load package
+# load package into R
 library('HomeRange')
 
-# package info
+# package information
 ?HomeRange
 
 # get the dataset, this function automatically downloads and imports the data
 data <- GetData()
+
+# some information on the HomeRange data
 head(data)
 summary(data)
 str(data)
+```
 
+## Explore HomeRange data further
+
+```r
 # plotting data
 PlotMap(data)
 PlotHistogram(data)
 
 # get more information
 MakeStatTable(data)
+```
 
+<img src="figs/map_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/hist_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/tab_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+
+```r
 # match with the COMBINE imputed dataset
+# https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3344
 COMBINE <- read.csv("/path/to/combine/trait_data_imputed.csv")
 merged_data = MergeWithCOMBINE(data, COMBINE)
 
 # example plot of the merged data
-plot(merged_data$Body_mass_kg*1000,merged_data$COMBINE_adult_mass_g,
-     log = "xy", pch=21, cex=0.7, bg="grey",
-     xlab="body mass g HomeRange",ylab="body mass g COMBINE")
+plot(merged_data$Body_mass_kg*1000, 
+     merged_data$COMBINE_adult_mass_g,
+     log = "xy", pch=21, 
+     cex=0.7, bg="grey",
+     xlab="body mass g HomeRange",
+     ylab="body mass g COMBINE")
+
 abline(0,1,col="red")
-
-
 ```
+
+<img src="figs/scatter_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+
 Version: 2022_06_20_10_17
