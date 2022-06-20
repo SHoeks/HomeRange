@@ -1,16 +1,18 @@
 # HomeRange data and R package repository
 
-This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page.
+This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. 
 
-### To download to HomeRange data use the following link
+### Access the HomeRange data
 
-Link: [https://anonymous.4open.science/r/TestData-C4A4/HR_data_harmonized_2022-05-30_V2.csv](https://anonymous.4open.science/api/repo/TestData-C4A4/file/HR_data_harmonized_2022-05-30_V2.csv)
+The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please use the download link below.
 
-### The data can be access using the R package, which will be available after publication
+Link: [HR_data_harmonized_2022-05-30_V2.csv](https://anonymous.4open.science/api/repo/HomeRange-2022/file/HR_data_harmonized_2022-05-30_V2.csv)
+
+### The data can be imported directly without downloading it using the R package
 
 To install the package use the following from R
 ```r
-install.packages("https://anonymous.4open.science/r/TestData-C4A4/HomeRange_0.0.0.9000.tar.gz",repos=NULL, method="libcurl")
+install.packages("https://anonymous.4open.science/r/HomeRange-2022/HomeRange_0.0.0.9000.tar.gz", repos=NULL, method="libcurl")
 ```
 
 These are some of the functions included in the package
