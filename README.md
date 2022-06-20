@@ -12,7 +12,7 @@ The R package can be used to download and import the HomeRange data all from wit
 
 
 ```r
-# install the package use the following from R
+# install the HomeRange R package
 install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.0.0.9000.tar.gz", repos=NULL, method="libcurl")
 
 # load package into R
