@@ -1,6 +1,6 @@
 # HomeRange data and R package repository
 
-This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved to a permanent repository once the paper is accepted. The data will be moved to a safe data archiving and access serive like DANS Easy or Figshare.
+This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved to a permanent repository once the paper is accepted. The data will be moved to a safe data archiving and access service like DANS Easy or Figshare.
 
 ## Access the HomeRange data
 
