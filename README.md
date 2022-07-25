@@ -10,7 +10,7 @@ The R package can be used to download and import the HomeRange data all from wit
 
 ## Interactive map with data points
 
-Go the the interactive plot using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html)
+Visit the interactive map with HomeRange data points using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html)
 
 ## The data can be downloaded and imported directly using the R package
 
