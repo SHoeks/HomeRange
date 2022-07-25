@@ -16,8 +16,6 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 <img src="figs/int_map_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 </a>
 
-<iframe src="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html" title="Interactive map"  style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;"></iframe>
-
 ## The data can be downloaded and imported directly using the R package
 
 
