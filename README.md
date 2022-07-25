@@ -49,9 +49,9 @@ PlotHistogram(data)
 MakeStatTable(data)
 ```
 
-<img src="figs/map_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/hist_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/tab_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/map2_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/hist2_withSilhouettes.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/tab2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ```r
 # match with the COMBINE imputed dataset
@@ -72,4 +72,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Version: 2022_06_20_10_17
+Version: 2022_07_25_15_51
