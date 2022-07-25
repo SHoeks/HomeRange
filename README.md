@@ -12,7 +12,9 @@ The R package can be used to download and import the HomeRange data all from wit
 
 Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html)
 
-<img href="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html" src="figs/int_map_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<a href="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html">
+<img src="figs/int_map_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+</a>
 
 ## The data can be downloaded and imported directly using the R package
 
