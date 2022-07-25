@@ -21,7 +21,9 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.0.0.9000.tar.gz", repos=NULL, method="libcurl")
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.0.0.9000.tar.gz", 
+                 repos=NULL, 
+                 method="libcurl")
 
 # load package into R
 library('HomeRange')
@@ -30,23 +32,23 @@ library('HomeRange')
 ?HomeRange
 
 # get the dataset, this function automatically downloads and imports the data
-data <- GetData()
+HomeRangeData <- GetData()
 
 # some information on the HomeRange data
-head(data)
-summary(data)
-str(data)
+head(HomeRangeData)
+summary(HomeRangeData)
+str(HomeRangeData)
 ```
 
 ## Explore HomeRange data further
 
 ```r
 # plotting data
-PlotMap(data)
-PlotHistogram(data)
+PlotMap(HomeRangeData)
+PlotHistogram(HomeRangeData)
 
 # get more information
-MakeStatTable(data)
+MakeStatTable(HomeRangeData)
 ```
 
 <img src="figs/map2_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
@@ -57,7 +59,7 @@ MakeStatTable(data)
 # match with the COMBINE imputed dataset
 # https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3344
 COMBINE <- read.csv("/path/to/combine/trait_data_imputed.csv")
-merged_data = MergeWithCOMBINE(data, COMBINE)
+merged_data = MergeWithCOMBINE(HomeRangeData, COMBINE)
 
 # example plot of the merged data
 plot(merged_data$Body_mass_kg*1000, 
@@ -72,4 +74,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Version: 2022_07_25_15_51
+Version: 2022_07_25_16_00
