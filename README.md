@@ -32,7 +32,7 @@ library('HomeRange')
 ?HomeRange
 
 # get the dataset, this function automatically downloads and imports the data
-HomeRangeData <- GetData()
+HomeRangeData <- GetHomeRangeData()
 
 # some information on the HomeRange data
 head(HomeRangeData)
