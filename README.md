@@ -21,7 +21,7 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.1.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.2.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
