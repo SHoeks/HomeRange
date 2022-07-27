@@ -8,9 +8,11 @@ The R package can be used to download and import the HomeRange data all from wit
 
 <img src="figs/download_csv2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
+A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/Metadata_2022_07_27.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
+
 ## Interactive map with data points
 
-Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html)
+Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html). All links provided are temporary for the double blind review process. On accaptance of the paper everything will be moved to a permenant location.
 
 <a href="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html">
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
@@ -21,15 +23,18 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.2.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.5.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
 # load package into R
 library('HomeRange')
 
-# package information
+# package information and HomeRange metadata
 ?HomeRange
+
+# view HomeRange metadata directly as PDF in the browser
+ViewMetaData()
 
 # get the dataset, this function automatically downloads and imports the data
 HomeRangeData <- GetHomeRangeData()
@@ -74,4 +79,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Version: 2022_07_26_12_01
+Updated: 2022_07_27_11_22
