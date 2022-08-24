@@ -4,11 +4,11 @@ This is a temporary and anonymous repository containing the HomeRange data and R
 
 ## Access the HomeRange data
 
-The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please use the link in this repository as shown in the image below.
+The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
 
-<img src="figs/download_csv2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/download_zip_data.jpg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/Metadata_2022_07_27.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
+A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_23.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
 
 ## Interactive map with data points
 
@@ -23,7 +23,7 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.5.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.8.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
@@ -51,14 +51,17 @@ str(HomeRangeData)
 # plotting data
 PlotMap(HomeRangeData)
 PlotHistogram(HomeRangeData)
+```
 
+<img src="figs/map2_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+
+```r
 # get more information
 MakeStatTable(HomeRangeData)
 ```
 
-<img src="figs/map2_small.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/hist2_withSilhouettes.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/tab2_margin.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/tableNums.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ```r
 # match with the COMBINE imputed dataset
@@ -79,4 +82,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_07_27_11_22
+Updated: 2022_08_24_.....
