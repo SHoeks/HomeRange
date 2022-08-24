@@ -68,7 +68,7 @@ PlotHistogram(HomeRangeData)
 MakeStatTable(HomeRangeData)
 ```
 
-<img src="figs/tableNums2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/tableNums3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ```r
 # match with the COMBINE imputed dataset
