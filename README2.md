@@ -6,15 +6,15 @@ This is a temporary and anonymous repository containing the HomeRange data and R
 
 The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
 
-<img src="figs/download_zip_data.jpg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/download_zip_data_24.jpg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ## Metadata
 
-A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_23.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
+A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_24.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
 
 ## Reference list
 
-All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeRefs_2022-08-23.csv``` file included in this repository.
+All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeRefs_2022-08-24.csv``` file included in this repository.
 
 ## Interactive map with data points
 
@@ -30,7 +30,7 @@ The HomeRange dataset can be downloaded and imported directly using the HomeRang
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.8.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.9.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
