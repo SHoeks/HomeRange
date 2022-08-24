@@ -8,7 +8,13 @@ The R package can be used to download and import the HomeRange data all from wit
 
 <img src="figs/download_zip_data.jpg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
+## Metadata
+
 A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_23.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
+
+## Reference list
+
+All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeRefs_2022-08-23.csv``` file included in this repository.
 
 ## Interactive map with data points
 
@@ -18,8 +24,9 @@ Visit the interactive HomeRange map using this [link](http://510867850.swh.strat
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 </a>
 
-## The data can be downloaded and imported directly using the R package
+## HomeRange R package
 
+The HomeRange dataset can be downloaded and imported directly using the HomeRange R pacakge
 
 ```r
 # install the HomeRange R package
