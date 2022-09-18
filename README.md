@@ -6,7 +6,7 @@ This is a temporary and anonymous repository containing the HomeRange data and R
 
 The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
 
-<img src="figs/download_zip_data_2022_09_16_3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/download_zip_data_2022_09_18_v2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ## Metadata
 
@@ -90,4 +90,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_09_18_17_34
+Updated: 2022_09_18_17_39
