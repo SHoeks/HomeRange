@@ -68,7 +68,7 @@ PlotHistogram(HomeRangeData)
 MakeStatTable(HomeRangeData)
 ```
 
-<img src="figs/tableNums3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/tableNums4.svg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ```r
 # match with the COMBINE imputed dataset
@@ -90,4 +90,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_09_18_09_43
+Updated: 2022_09_18_10_53
