@@ -1,20 +1,20 @@
 # HomeRange data and R package repository
 
-This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved to a permanent repository once the paper is accepted. The data will be moved to a safe data archiving and access service like DANS Easy or Figshare.
+This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved/archived to a permanent repository once the paper is accepted (e.g. DANS Easy or Figshare).
 
 ## Access the HomeRange data
 
-The R package can be used to download and import the HomeRange data all from within R using a single function call. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
+The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
 
 <img src="figs/download_zip_data_24.jpg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ## Metadata
 
-A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_24.pdf). Alternatively, it can be viewed from the R package (see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the data described in the screenshot above).
+A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_2022_08_24.pdf). Alternatively, it can be viewed from the R package (using ```ViewMetaData()```, see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the zipped data described in the screenshot above).
 
 ## Reference list
 
-All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeRefs_2022-08-24.csv``` file included in this repository.
+All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_09_16.csv``` file included in the ```HomeRangeData_2022_09_16_3.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function, ```GetHomeRangeData(IncludeReferences = TRUE)```, all references are downloaded and merged with the HomeRange dataset directly.
 
 ## Interactive map with data points
 
@@ -44,7 +44,7 @@ library('HomeRange')
 ViewMetaData()
 
 # get the dataset, this function automatically downloads and imports the data
-HomeRangeData <- GetHomeRangeData()
+HomeRangeData <- GetHomeRangeData() # by default IncludeReferences is set to FALSE
 
 # some information on the HomeRange data
 head(HomeRangeData)
@@ -90,4 +90,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_09_18_10_53
+Updated: 2022_09_18_11_06
