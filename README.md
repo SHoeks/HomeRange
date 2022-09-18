@@ -81,6 +81,7 @@ plot(merged_data$Body_mass_kg*1000,
      merged_data$COMBINE_adult_mass_g,
      log = "xy", pch=21, 
      cex=0.7, bg="grey",
+     xlim=c(10^0,10^7), ylim=c(10^0,10^7),
      xlab="body mass g HomeRange",
      ylab="body mass g COMBINE")
 
