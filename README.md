@@ -30,7 +30,7 @@ The HomeRange dataset can be downloaded and imported directly using the HomeRang
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.98.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.99.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
