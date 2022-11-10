@@ -43,6 +43,9 @@ library('HomeRange')
 # view HomeRange metadata directly as PDF in the browser
 ViewMetaData()
 
+# Or access the metadata from the HomeRange vignettes
+vignette(package="HomeRange","Metadata")
+
 # get the dataset, this function automatically downloads and imports the data
 HomeRangeData <- GetHomeRangeData() # by default IncludeReferences is set to FALSE
 
@@ -94,4 +97,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_11_10_17_35
+Updated: 2022_11_10_18_11
