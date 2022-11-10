@@ -6,7 +6,7 @@ This is a temporary and anonymous repository containing the HomeRange data and R
 
 The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
 
-<img src="figs/download_zip_data_2022_11_10.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/download_zip_data_2022_08_18_4.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
 ## Metadata
 
@@ -14,7 +14,7 @@ A PDF file with the metadata for the HomeRage dataset can be accessed using this
 
 ## Reference list
 
-All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_10.csv``` file included in the ```HomeRangeData_2022_11_10_3.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
+All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_10.csv``` file included in the ```HomeRangeData_2022_11_10_4.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
 
 ## Interactive map with data points
 
@@ -30,7 +30,7 @@ The HomeRange dataset can be downloaded and imported directly using the HomeRang
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.97.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.98.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
@@ -97,4 +97,4 @@ abline(0,1,col="red")
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 
-Updated: 2022_11_10_18_11
+Updated: 2022_11_10_18_29
