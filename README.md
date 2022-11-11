@@ -14,7 +14,7 @@ A PDF file with the metadata for the HomeRage dataset can be accessed using this
 
 ## Reference list
 
-All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_10.csv``` file included in the ```HomeRangeData_2022_11_10_4.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
+All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_11.csv``` file included in the ```HomeRangeData_2022_11_11_1.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
 
 ## Interactive map with data points
 
@@ -30,7 +30,7 @@ The HomeRange dataset can be downloaded and imported directly using the HomeRang
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_0.99.tar.gz", 
+install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_1.00.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
