@@ -12,26 +12,23 @@ An interactive map of the HomeRange data can be accessed [here](https://shoeks.g
 
 ## Github Contributors
 
-<div style="width: 100%; padding-top:10px; padding-bottom:20px;">
-  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
-  <a href="https://github.com/TuckerMarlee">
-  <img src="https://avatars.githubusercontent.com/u/6610455?v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
-  <h3 style="display: inline-block; position:relative;bottom:7px;">Marlee Tucker</h3>
-  </a>
-  </div>
-  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
-  <a href="https://github.com/MaartenBroekman">
-  <img src="https://avatars.githubusercontent.com/u/119331999?v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
-  <h3 style="display: inline-block; position:relative;bottom:7px;">Maarten Broekman</h3>
-  </a>
-  </div>
-  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
-  <a href="https://github.com/SHoeks">
-  <img src="https://avatars.githubusercontent.com/u/36075931?s=400&v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
-  <h3 style="display: inline-block; position:relative;bottom:7px;">Selwyn Hoeks</h3>
-  </a>
-  </div>  
-</div>
+
+<a href="https://github.com/TuckerMarlee">
+<img src="https://avatars.githubusercontent.com/u/6610455?v=4" width="20">
+Marlee tucker
+</a>
+
+<a href="https://github.com/MaartenBroekman">
+<img src="https://avatars.githubusercontent.com/u/119331999?v=4" width="20">
+Maarten Broekman
+</a>
+
+<a href="https://github.com/SHoeks">
+<img src="https://avatars.githubusercontent.com/u/36075931?s=400&v=4" width="20">
+Selwyn Hoeks
+</a>
+<br>
+<br>
 
 ## Access HomeRange from this repository
 
