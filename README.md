@@ -19,7 +19,7 @@ This repository contains the latest version of the HomeRange data and R package.
 
 ## Interactive map with data points
 
-Visit the interactive HomeRange map using this [link](https://shoeks.github.io/HomeRange/InteractiveMap.html).
+Visit the interactive HomeRange map [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
 <a href="https://shoeks.github.io/HomeRange/InteractiveMap.html">
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
