@@ -22,7 +22,7 @@ This repository contains the latest version of the HomeRange data and R package.
 Visit the interactive HomeRange map [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
 <a href="https://shoeks.github.io/HomeRange/InteractiveMap.html">
-<img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
 </a>
 
 ## HomeRange R package
@@ -68,8 +68,8 @@ PlotMap(HomeRangeData)
 PlotHistogram(HomeRangeData)
 ```
 
-<img src="figs/map3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/map3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
 
 ```r
 # get more information
@@ -96,4 +96,4 @@ plot(merged_data$Body_mass_kg*1000,
 abline(0,1,col="red")
 ```
 
-<img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
