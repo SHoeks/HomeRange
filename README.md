@@ -1,16 +1,14 @@
 # HomeRange data and R package repository
 
-This is a temporary and anonymous repository containing the HomeRange data and R package, please do not share the link to this page. The package will be moved/archived to a permanent repository once the paper is accepted (e.g. DANS Easy or Figshare).
+This repository contains the latest version of the HomeRange data and R package. The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
 
 ## Access the HomeRange data
 
-The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository as shown in the image below.
-
-<img src="figs/download_zip_data_generic.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)
 
 ## Metadata
 
-A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](http://510867850.swh.strato-hosting.eu/HomeRangeMetadata_submit.pdf). Alternatively, it can be viewed from the R package (using ```ViewMetaData()```, see example code below) or it can be downloaded from the main directory in this repository (similar to downloading the zipped data described in the screenshot above).
+A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](https://github.com/SHoeks/HomeRange/blob/main/HomeRangeMetadata_2022_11_11.pdf). Alternatively, it can be viewed from the R package using ```ViewMetaData()``` (see example code below).
 
 ## Reference list
 
@@ -18,7 +16,7 @@ All references for the home-range values contained in the HomeRange dataset can 
 
 ## Interactive map with data points
 
-Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html). All links provided are temporary for the double blind review process. On accaptance of the paper everything will be moved to a permenant location.
+Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html).
 
 <a href="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html">
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
@@ -30,7 +28,7 @@ The HomeRange dataset can be downloaded and imported directly using the HomeRang
 
 ```r
 # install the HomeRange R package
-install.packages("https://anonymous.4open.science/r/HomeRange-D913/HomeRange_1.00.tar.gz", 
+install.packages("https://github.com/SHoeks/HomeRange/blob/main/HomeRange_1.00.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
@@ -96,5 +94,3 @@ abline(0,1,col="red")
 ```
 
 <img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
-
-Updated: 2022_11_11_12_55
