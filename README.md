@@ -28,7 +28,7 @@ An interactive map of the HomeRange data can be accessed [here](https://shoeks.g
 
 ```r
 # install the HomeRange R package
-install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.00.tar.gz", 
+install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.01.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 
