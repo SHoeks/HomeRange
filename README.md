@@ -1,14 +1,11 @@
 # HomeRange
 
-The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
+The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. The data paper describes the contents of HomeRange in more detail:
 
-The data paper published in XXX describes the contents of HomeRange in more detail: [NA](link)
+Broekman, M.J.E., Hoeks, S., Freriks, R., Langendoen, M.M., Runge, K.M., Savenco, E., ter Harmsel, R., Huijbregts, M.A.J. & Tucker, M.A. (Accepted). HomeRange: A global database of mammalian home ranges. Global Ecology and Biogeography.
 
-An interactive map of the HomeRange data can be accessed [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
-
-<a href="https://shoeks.github.io/HomeRange/InteractiveMap.html">
-<img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
-</a>
+- The HomeRange data is archived on Dryad: [https://doi.org/10.5061/dryad.d2547d85x](https://doi.org/10.5061/dryad.d2547d85x).
+- An interactive map of the HomeRange data can be accessed [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
 ## Github Contributors
 
