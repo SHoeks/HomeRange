@@ -28,7 +28,6 @@ Maarten Broekman
 Selwyn Hoeks
 </a>
 <br>
-<br>
 
 ## Access HomeRange from this repository
 
