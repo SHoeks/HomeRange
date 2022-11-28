@@ -82,7 +82,7 @@ PlotHistogram(HomeRangeData)
 ```
 
 <img src="figs/map3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
-<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
+<img src="figs/Fig.2_GEB.svg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
 
 ```r
 # get more information
