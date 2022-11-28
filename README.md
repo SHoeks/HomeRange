@@ -10,6 +10,29 @@ An interactive map of the HomeRange data can be accessed [here](https://shoeks.g
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
 </a>
 
+## Github Contributors
+
+<div style="width: 100%; padding-top:10px; padding-bottom:20px;">
+  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
+  <a href="https://github.com/TuckerMarlee">
+  <img src="https://avatars.githubusercontent.com/u/6610455?v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
+  <h3 style="display: inline-block; position:relative;bottom:7px;">Marlee Tucker</h3>
+  </a>
+  </div>
+  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
+  <a href="https://github.com/MaartenBroekman">
+  <img src="https://avatars.githubusercontent.com/u/119331999?v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
+  <h3 style="display: inline-block; position:relative;bottom:7px;">Maarten Broekman</h3>
+  </a>
+  </div>
+  <div style="margin-left: 5px; height:30px;padding-bottom:7px;">
+  <a href="https://github.com/SHoeks">
+  <img src="https://avatars.githubusercontent.com/u/36075931?s=400&v=4" alt="Icon"  style="height: 100%; border-radius: 50%;"/>
+  <h3 style="display: inline-block; position:relative;bottom:7px;">Selwyn Hoeks</h3>
+  </a>
+  </div>  
+</div>
+
 ## Access HomeRange from this repository
 
 - <u>HomeRange data</u>: the latest HomeRange data (formatted as a CSV) are contained within the ```HomeRangeData_2022_11_11_1.zip```, which can be downloaded using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)
