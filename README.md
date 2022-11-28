@@ -4,21 +4,24 @@ This repository contains the latest version of the HomeRange data and R package.
 
 ## Access the HomeRange data
 
-The R package can be used to download and import the HomeRange data all from within R using a single function call (```GetHomeRangeData()```), see example below. However, If you need to use or check the raw data (formatted as a CSV), please download the zip contained in this repository using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)
+- <u>Access online</u>: the HomeRange data (formatted as a CSV) can be downloaded from this repository, please download the zip contained in this repository using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)
+- <u>R package</u>: the R package can be used to download and import the HomeRange data all from within R using a single function call ```GetHomeRangeData()``` (see example code below). 
 
 ## Metadata
 
-A PDF file with the metadata for the HomeRage dataset can be accessed using this [link](https://github.com/SHoeks/HomeRange/blob/main/HomeRangeMetadata_2022_11_11.pdf). Alternatively, it can be viewed from the R package using ```ViewMetaData()``` (see example code below).
+- <u>Access online</u>: the metadata PDF for the HomeRage data can be accessed using this [link](https://shoeks.github.io/HomeRange/HomeRangeMetadata_2022_11_11.pdf). 
+- <u>R package</u>: the metadata can be viewed from the R package using ```ViewMetaData()``` or ```vignette(package="HomeRange","Metadata")``` (see example code below).
 
 ## Reference list
 
-All references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_11.csv``` file included in the ```HomeRangeData_2022_11_11_1.zip``` available from this repository. By setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
+- <u>Access online</u>: all references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_11.csv``` file included in the ```HomeRangeData_2022_11_11_1.zip``` available from this repository ([link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)). 
+- <u>R package</u>: by setting the ```IncludeReferences``` agrument to ```TRUE``` in the ```GetHomeRangeData()``` function of the R package (```GetHomeRangeData(IncludeReferences = TRUE)```) all references are downloaded and merged with the HomeRange dataset directly.
 
 ## Interactive map with data points
 
-Visit the interactive HomeRange map using this [link](http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html).
+Visit the interactive HomeRange map using this [link](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
-<a href="http://510867850.swh.strato-hosting.eu/Interactive_plot_locations_HR.html">
+<a href="https://shoeks.github.io/HomeRange/InteractiveMap.html">
 <img src="figs/int_map_s2.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
 </a>
 
