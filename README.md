@@ -1,6 +1,10 @@
-# HomeRange data and R package repository
+# HomeRange
 
-This repository contains the latest version of the HomeRange data and R package. The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
+## About 
+
+This repository contains the latest version of the HomeRange data and HomeRange R package. The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
+
+- The HomeRange data was published in xxx: [NA](geblink)
 
 ## Access the HomeRange data
 
@@ -68,15 +72,15 @@ PlotMap(HomeRangeData)
 PlotHistogram(HomeRangeData)
 ```
 
-<img src="figs/map3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
-<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/map3.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
+<img src="figs/barplot_2022_08_18.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
 
 ```r
 # get more information
 MakeStatTable(HomeRangeData)
 ```
 
-<img src="figs/table2_2022_11_10.svg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 80%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/table2_2022_11_10.svg" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;     background-color: white;" />
 
 ```r
 # match with the COMBINE imputed dataset
@@ -96,4 +100,4 @@ plot(merged_data$Body_mass_kg*1000,
 abline(0,1,col="red")
 ```
 
-<img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%;" />
+<img src="figs/scatter.png" style="float: left; margin-right: 10px; padding-bottom: 20px; width: 100%; padding-left: 10%; padding-right:10%; background-color: white;" />
