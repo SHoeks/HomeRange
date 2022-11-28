@@ -1,8 +1,8 @@
 # HomeRange
 
-This repository contains the latest version of the HomeRange data and HomeRange R package. The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
+The HomeRange data contains mammal home-ranges estimates, species names, methodological information on data collection, home-range estimation method, period of data collection, study coordinates and name of location, as well as species traits derived from the studies, such as body mass, life stage, reproductive status and locomotor habit. 
 
-The data paper published in XXX describes the contents of HomeRange in more detail: [NA](geblink)
+The data paper published in XXX describes the contents of HomeRange in more detail: [NA](link)
 
 An interactive map of the HomeRange data can be accessed [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
