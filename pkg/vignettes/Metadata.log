@@ -1,0 +1,534 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.7)  11 NOV 2022 12:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input ./Metadata.tex \input ./Metadata.tex
+(./Metadata.tex (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip51
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count196
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count197
+\AM@toc@title=\toks18
+\c@AM@survey=\count198
+\AM@templatesizebox=\box51
+)
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Sweave.sty
+Package: Sweave 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count199
+\FV@InFile=\read2
+\FV@TabBox=\box52
+\c@FancyVerbLine=\count266
+\FV@StepNumber=\count267
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)))
+LaTeX Font Info:    Trying to load font information for T1+aer on input line 5.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box53
+)
+(/Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Metadata.
+aux)
+\openout1 = `Metadata.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen148
+\scratchbox=\box54
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen149
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Metadata-
+concordance.tex)
+<HomeRangeMetadata_2022_11_11.pdf, id=2, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf  used on input line 7
+.
+(pdftex.def)             Requested size: 276.00105pt x 390.58261pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf  used on input line 7
+.
+(pdftex.def)             Requested size: 276.00105pt x 390.58261pt.
+<HomeRangeMetadata_2022_11_11.pdf, id=5, page=1, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 1>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page1 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 1>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page1 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 1>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page1 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 1>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page1 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 1>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page1 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [1
+
+ </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeRang
+eMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=34, page=2, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 2>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page2 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 2>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page2 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 2>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page2 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [2 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=49, page=3, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 3>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page3 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 3>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page3 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 3>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page3 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+
+[3 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeRa
+ngeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=53, page=4, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 4>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page4 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 4>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page4 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 4>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page4 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [4 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=57, page=5, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 5>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page5 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 5>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page5 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 5>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page5 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [5 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=61, page=6, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 6>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page6 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 6>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page6 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 6>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page6 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [6 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=65, page=7, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 7>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page7 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 7>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page7 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 7>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page7 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [7 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=73, page=8, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 8>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page8 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 8>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page8 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 8>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page8 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [8 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=77, page=9, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 9>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page9 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 9>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page9 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 9>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page9 used on input
+ line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [9 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=85, page=10, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 10>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page10 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 10>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page10 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 10>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page10 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [10 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Home
+RangeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=89, page=11, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 11>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page11 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 11>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page11 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 11>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page11 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+
+[11 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/HomeR
+angeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=93, page=12, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 12>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page12 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 12>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page12 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 12>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page12 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [12 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Home
+RangeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=97, page=13, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 13>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page13 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 13>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page13 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 13>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page13 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [13 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Home
+RangeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=102, page=14, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 14>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page14 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 14>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page14 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 14>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page14 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [14 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Home
+RangeMetadata_2022_11_11.pdf>]
+<HomeRangeMetadata_2022_11_11.pdf, id=106, page=15, 597.23125pt x 845.1575pt>
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 15>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page15 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 15>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page15 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: HomeRangeMetadata_2022_11_11.pdf Graphic file (type pdf)
+<use HomeRangeMetadata_2022_11_11.pdf, page 15>
+Package pdftex.def Info: HomeRangeMetadata_2022_11_11.pdf , page15 used on inpu
+t line 7.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [15 </Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Home
+RangeMetadata_2022_11_11.pdf>]
+(/Users/osx/Documents/PhD/Paper_HomeRange/HomeRange-package/vignettes/Metadata.
+aux) ) 
+Here is how much of TeX's memory you used:
+ 4024 strings out of 478268
+ 68491 string characters out of 5846348
+ 352423 words of memory out of 5000000
+ 22186 multiletter control sequences out of 15000+600000
+ 471517 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,17n,76p,288b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on Metadata.pdf (15 pages, 199583 bytes).
+PDF statistics:
+ 116 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+
