@@ -50,6 +50,8 @@ Selwyn Hoeks
 install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.01.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
+# alternatively, install the HomeRange R package using install_github:
+# remotes::install_github("SHoeks/HomeRange", subdir='pkg')
 
 # load package into R
 library('HomeRange')
