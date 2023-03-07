@@ -7,7 +7,7 @@
 ViewMetaData()
 }
 \description{
-This function opens the metadata pdf file in the browser.
+This function opens the metadata pdf file in the browser (currently the version of 2023_03_07).
 }
 \examples{
 library(HomeRange)

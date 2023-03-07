@@ -11,7 +11,7 @@
 GetHomeRangeData = function(IncludeReferences=FALSE) {
 
   if(class(IncludeReferences)!="logical") stop("IncludeReferences needs to be set to TRUE or FALSE")
-  date = "2022_11_11"
+  date = "2023_03_07"
   zip_version = "1"
 
   # url to get csv from

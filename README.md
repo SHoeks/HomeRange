@@ -31,11 +31,11 @@ Selwyn Hoeks
 
 ## Access HomeRange from this repository
 
-- <u>HomeRange data</u>: the latest HomeRange data (formatted as a CSV) are contained within the ```HomeRangeData_2022_11_11_1.zip```, which can be downloaded using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)
+- <u>HomeRange data</u>: the latest HomeRange data (formatted as a CSV) are contained within the ```HomeRangeData_2023_03_07_1.zip```, which can be downloaded using this [link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2023_03_07_1.zip)
 
-- <u>Metadata</u>: the metadata PDF for the HomeRage data can be accessed [here](https://shoeks.github.io/HomeRange/HomeRangeMetadata_2022_11_11.pdf). 
+- <u>Metadata</u>: the metadata PDF for the HomeRage data can be accessed [here](https://shoeks.github.io/HomeRange/HomeRangeMetadata_2023_03_07.pdf). 
 
-- <u>Reference list</u>: all references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2022_11_11.csv``` file included in the ```HomeRangeData_2022_11_11_1.zip``` available from this repository ([link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2022_11_11_1.zip)). 
+- <u>Reference list</u>: all references for the home-range values contained in the HomeRange dataset can be found in the ```HomeRangeReferences_2023_03_07.csv``` file included in the ```HomeRangeData_2023_03_07_1.zip``` available from this repository ([link](https://github.com/SHoeks/HomeRange/raw/main/HomeRangeData_2023_03_07_1.zip)). 
 
 ## Access HomeRange using the R package
 
@@ -47,7 +47,7 @@ Selwyn Hoeks
 
 ```r
 # install the HomeRange R package
-install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.01.tar.gz", 
+install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.02.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 # alternatively, install the HomeRange R package using install_github:
