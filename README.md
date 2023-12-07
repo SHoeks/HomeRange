@@ -7,6 +7,7 @@ The HomeRange data contains mammal home-ranges estimates, species names, methodo
 Broekman, M.J.E., Hoeks, S., Freriks, R., Langendoen, M.M., Runge, K.M., Savenco, E., ter Harmsel, R., Huijbregts, M.A.J. & Tucker, M.A. (2022). HomeRange: A global database of mammalian home ranges. Global Ecology and Biogeography.
 [https://doi.org/10.1111/geb.13625](https://doi.org/10.1111/geb.13625).
 
+- The most up to date version of the HomeRange data is available from this Github repository and the R-package.
 - The HomeRange data is archived on Dryad: [https://doi.org/10.5061/dryad.d2547d85x](https://doi.org/10.5061/dryad.d2547d85x).
 - An interactive map of the HomeRange data can be accessed [here](https://shoeks.github.io/HomeRange/InteractiveMap.html).
 
