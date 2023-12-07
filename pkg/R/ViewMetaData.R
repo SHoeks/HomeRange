@@ -8,4 +8,4 @@
 #'
 #' # view HomeRange metadata
 #' ViewMetaData()
-ViewMetaData = function() browseURL("https://shoeks.github.io/HomeRange/HomeRangeMetadata_2023_09_06.pdf")
+ViewMetaData = function() browseURL("https://shoeks.github.io/HomeRange/HomeRangeMetadata_2023_11_28.pdf")
