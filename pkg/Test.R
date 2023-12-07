@@ -1,5 +1,6 @@
 # load package
 library('HomeRange')
+sessionInfo()
 
 # package info
 ?HomeRange

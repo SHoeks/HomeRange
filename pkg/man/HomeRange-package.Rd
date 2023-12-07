@@ -37,6 +37,6 @@ ViewMetaData()\cr
 vignette(package="HomeRange","Metadata")\cr
 
 Alternatively the following link could be used to access the metadata:\cr
-\url{https://shoeks.github.io/HomeRange/HomeRangeMetadata_2023_09_06.pdf}.\cr
+\url{https://shoeks.github.io/HomeRange/HomeRangeMetadata_2023_11_28.pdf}.\cr
 
 }

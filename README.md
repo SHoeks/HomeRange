@@ -48,7 +48,7 @@ Selwyn Hoeks
 
 ```r
 # install the HomeRange R package
-install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.04.tar.gz", 
+install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.05.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 # alternatively, install the HomeRange R package using install_github:

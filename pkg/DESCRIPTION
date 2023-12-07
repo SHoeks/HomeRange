@@ -1,6 +1,6 @@
 Package: HomeRange
 Title: This package provides access to the HomeRange dataset
-Version: 1.04
+Version: 1.05
 Authors@R: 
     person("Selwyn", "Hoeks", , "s.hoeks@science.ru.nl", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
