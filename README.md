@@ -15,7 +15,7 @@ Broekman, M.J.E., Hoeks, S., Freriks, R., Langendoen, M.M., Runge, K.M., Savenco
 
 <a href="https://github.com/TuckerMarlee">
 <img src="https://avatars.githubusercontent.com/u/6610455?v=4" width="20">
-Marlee tucker
+Marlee Tucker
 </a>
 
 <a href="https://github.com/MaartenBroekman">
