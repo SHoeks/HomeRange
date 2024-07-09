@@ -62,6 +62,7 @@ library('HomeRange') # prints version
 #> HomeRange database version: 2024_07_09
 
 # package information
+HomeRangeVersion()
 ?HomeRange
 
 # view HomeRange metadata directly as PDF in the browser

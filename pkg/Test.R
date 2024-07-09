@@ -1,8 +1,21 @@
+# uninstall previous version
+if(FALSE){
+  detach("package:HomeRange", unload=TRUE)
+  remove.packages("HomeRange")
+}
+
+# insall new version
+if(FALSE){
+  install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.07.tar.gz",
+                   repos=NULL,
+                   method="libcurl")
+}
+
 # load package
 library('HomeRange')
-sessionInfo()
 
 # package info
+HomeRangeVersion()
 ?HomeRange
 
 # test functions
