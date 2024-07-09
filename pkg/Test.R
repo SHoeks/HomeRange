@@ -4,7 +4,7 @@ if(FALSE){
   remove.packages("HomeRange")
 }
 
-# insall new version
+# install new version
 if(FALSE){
   install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.07.tar.gz",
                    repos=NULL,
