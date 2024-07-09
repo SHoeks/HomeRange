@@ -57,7 +57,9 @@ install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.07.ta
 # pak::pkg_install("SHoeks/HomeRange/pkg")
 
 # load package into R
-library('HomeRange')
+library('HomeRange') # prints version
+#> HomeRange pkg version: 1.07
+#> HomeRange database version: 2024_07_09
 
 # package information
 ?HomeRange
