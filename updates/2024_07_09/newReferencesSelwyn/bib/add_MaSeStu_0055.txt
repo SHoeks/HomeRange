@@ -1,0 +1,10 @@
+@article{broadbooks1970home,
+  title={Home ranges and territorial behavior of the yellow-pine chipmunk, Eutamias amoenus},
+  author={Broadbooks, Harold E},
+  journal={Journal of Mammalogy},
+  volume={51},
+  number={2},
+  pages={310--326},
+  year={1970},
+  publisher={American Society of Mammalogists 810 East 10th Street, PO Box 1897, Lawrence~…}
+}

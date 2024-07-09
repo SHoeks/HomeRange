@@ -1,0 +1,9 @@
+@article{qihai2009sleeping,
+  title={Sleeping site use by Trachypithecus francoisi at Nonggang nature reserve, China},
+  author={Qihai, Zhou and Chengming, Huang and Ming, Li and Fuwen, Wei},
+  journal={International Journal of Primatology},
+  volume={30},
+  pages={353--365},
+  year={2009},
+  publisher={Springer}
+}

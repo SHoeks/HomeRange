@@ -1,0 +1,10 @@
+@article{whyte2013differences,
+  title={Differences in brushtail possum home-range characteristics among sites of varying habitat and population density},
+  author={Whyte, Belinda I and Ross, James G and Blackie, Helen M},
+  journal={Wildlife Research},
+  volume={40},
+  number={7},
+  pages={537--544},
+  year={2013},
+  publisher={CSIRO Publishing}
+}

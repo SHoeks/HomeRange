@@ -1,0 +1,7 @@
+@article{ahsan2000socio,
+  title={Socio-ecology of the hoolock gibbon (Hylobates hoolock) in two forests of Bangladesh},
+  author={Ahsan, M Farid},
+  journal={The Apes: Challenges for the 21st Centruy, Brookfield Zoo},
+  pages={286--299},
+  year={2000}
+}

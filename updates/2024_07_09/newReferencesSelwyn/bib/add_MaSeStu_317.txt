@@ -1,0 +1,10 @@
+@article{meserve1977three,
+  title={Three-dimensional home ranges of cricetid rodents},
+  author={Meserve, Peter L},
+  journal={Journal of Mammalogy},
+  volume={58},
+  number={4},
+  pages={549--558},
+  year={1977},
+  publisher={American Society of Mammalogists 810 East 10th Street, PO Box 1897, Lawrence~…}
+}

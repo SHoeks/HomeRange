@@ -1,0 +1,7 @@
+@article{de1994habitat,
+  title={Habitat use, home-range and activity pattern of the northern bat, Eptesicus nilssoni, in a hemiboreal coniferous forest},
+  author={de Jong, Johnny},
+  year={1994},
+  publisher={Walter de Gruyter, Berlin/New York Berlin, New York},
+  journal={unknown}
+}

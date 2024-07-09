@@ -1,0 +1,9 @@
+@article{loy1992biologia,
+  title={Biologia di Talpa Romana thomas (Mammalia, Insectivora: Talpidae). 1. Home range e ritmi di attivit{\`a}: nsultati preliminari di uno studio di radiotelemetria},
+  author={Loy, Dianna and Dupr{\'e}e, Eugenio and David Stone, R},
+  journal={Rendiconti Lincei},
+  volume={3},
+  pages={173--182},
+  year={1992},
+  publisher={Springer}
+}

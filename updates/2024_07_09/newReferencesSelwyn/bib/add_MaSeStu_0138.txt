@@ -1,0 +1,9 @@
+@article{eberle2004sex,
+  title={Sex in the dark: determinants and consequences of mixed male mating tactics in Microcebus murinus, a small solitary nocturnal primate},
+  author={Eberle, Manfred and Kappeler, Peter M},
+  journal={Behavioral Ecology and Sociobiology},
+  volume={57},
+  pages={77--90},
+  year={2004},
+  publisher={Springer}
+}

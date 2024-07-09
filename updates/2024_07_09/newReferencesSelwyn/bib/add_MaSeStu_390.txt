@@ -1,0 +1,10 @@
+@article{quadagno1968home,
+  title={Home range size in feral house mice},
+  author={Quadagno, David M},
+  journal={Journal of Mammalogy},
+  volume={49},
+  number={1},
+  pages={149--151},
+  year={1968},
+  publisher={JSTOR}
+}

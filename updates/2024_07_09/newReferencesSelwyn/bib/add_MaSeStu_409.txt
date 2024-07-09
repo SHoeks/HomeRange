@@ -1,0 +1,10 @@
+@article{rogers1997demography,
+  title={The demography of a high-density badger (Meles meles) population in the west of England},
+  author={Rogers, LM and Cheeseman, CL and Mallinson, PJ and Clifton-Hadley, R},
+  journal={Journal of Zoology},
+  volume={242},
+  number={4},
+  pages={705--728},
+  year={1997},
+  publisher={Wiley Online Library}
+}

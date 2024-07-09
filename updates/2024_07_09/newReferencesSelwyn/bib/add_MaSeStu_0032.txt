@@ -1,0 +1,8 @@
+@incollection{bearder1980social,
+  title={The social organization of a nocturnal primate revealed by radio tracking},
+  author={BEARDER, SK t and Martin, RD},
+  booktitle={A handbook on biotelemetry and radio tracking},
+  pages={633--648},
+  year={1980},
+  publisher={Elsevier}
+}

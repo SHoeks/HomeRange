@@ -1,0 +1,9 @@
+@article{kauhala2010habitat,
+  title={Habitat preferences of the native badger and the invasive raccoon dog in southern Finland},
+  author={Kauhala, Kaarina and Auttila, Miina},
+  journal={Acta Theriologica},
+  volume={55},
+  pages={231--240},
+  year={2010},
+  publisher={Springer}
+}

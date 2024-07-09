@@ -1,0 +1,9 @@
+@article{salvioni1988home,
+  title={Home range and social behavior of three species of European Pitymys (Mammalia, Rodentia)},
+  author={Salvioni, Marco},
+  journal={Behavioral Ecology and Sociobiology},
+  volume={22},
+  pages={203--210},
+  year={1988},
+  publisher={Springer}
+}

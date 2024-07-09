@@ -1,0 +1,10 @@
+@article{laundre2007impact,
+  title={Impact of edge habitat on summer home range size in female pumas},
+  author={Laundr{\'e}, John W and Loxterman, Janet},
+  journal={The American Midland Naturalist},
+  volume={157},
+  number={1},
+  pages={221--229},
+  year={2007},
+  publisher={BioOne}
+}

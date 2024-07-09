@@ -1,0 +1,9 @@
+@article{di2003ranging,
+  title={Ranging behavior and foraging ecology of lowland woolly monkeys (Lagothrix lagotricha poeppigii) in Yasuni National Park, Ecuador},
+  author={Di Fiore, Anthony},
+  journal={American Journal of Primatology},
+  volume={59},
+  number={2},
+  pages={47--66},
+  year={2003}
+}

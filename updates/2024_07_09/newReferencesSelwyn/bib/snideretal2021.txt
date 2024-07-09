@@ -1,0 +1,10 @@
+@article{snider2021home,
+  title={Home range variation in leopards living across the human density gradient},
+  author={Snider, Matthew H and Athreya, Vidya R and Balme, Guy A and Bidner, Laura R and Farhadinia, Mohammed S and Fattebert, Julien and Gompper, Matthew E and Gubbi, Sanjay and Hunter, Luke TB and Isbell, Lynne A and others},
+  journal={Journal of Mammalogy},
+  volume={102},
+  number={4},
+  pages={1138--1148},
+  year={2021},
+  publisher={Oxford University Press US}
+}

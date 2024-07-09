@@ -1,0 +1,10 @@
+@article{young2009elephant,
+  title={Elephant spatial use in wet and dry savannas of southern Africa},
+  author={Young, KD and Ferreira, SM and Van Aarde, RJ},
+  journal={Journal of Zoology},
+  volume={278},
+  number={3},
+  pages={189--205},
+  year={2009},
+  publisher={Wiley Online Library}
+}

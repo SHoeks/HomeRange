@@ -1,0 +1,10 @@
+@article{innes1983home,
+  title={Home ranges of ship rats in a small New Zealand forest as revealed by trapping and tracking},
+  author={Innes, JG and Skipworth, JP},
+  journal={New Zealand Journal of Zoology},
+  volume={10},
+  number={1},
+  pages={99--110},
+  year={1983},
+  publisher={Taylor \& Francis}
+}

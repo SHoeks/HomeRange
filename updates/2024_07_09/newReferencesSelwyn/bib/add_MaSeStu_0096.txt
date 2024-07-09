@@ -1,0 +1,10 @@
+@article{crawley1973live,
+  title={A live-trapping of Australian brush-tailed possums, Trichosurus vulpecula (Kerr), in the Orongorongo Valley, Wellington, New Zealand},
+  author={Crawley, MC},
+  journal={Australian journal of zoology},
+  volume={21},
+  number={1},
+  pages={75--90},
+  year={1973},
+  publisher={CSIRO Publishing}
+}

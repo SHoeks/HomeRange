@@ -1,0 +1,10 @@
+@article{stone2007responses,
+  title={Responses of squirrel monkeys to seasonal changes in food availability in an eastern Amazonian forest},
+  author={Stone, Anita I},
+  journal={American Journal of Primatology: Official Journal of the American Society of Primatologists},
+  volume={69},
+  number={2},
+  pages={142--157},
+  year={2007},
+  publisher={Wiley Online Library}
+}

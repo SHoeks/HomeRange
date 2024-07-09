@@ -1,0 +1,6 @@
+@article{beeman1975population,
+  title={Population Characteristics, Movement, and Activities of the Black Bear (Ursus americaus)},
+  author={Beeman, Larry Eugene},
+  year={1975},
+  journal={unknown}
+}

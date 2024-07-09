@@ -1,0 +1,10 @@
+@article{manfredi2006home,
+  title={Home range and habitat use by Geoffroy's cat (Oncifelis geoffroyi) in a wet grassland in Argentina},
+  author={Manfredi, C and Soler, L and Lucherini, M and Casanave, EB},
+  journal={Journal of zoology},
+  volume={268},
+  number={4},
+  pages={381--387},
+  year={2006},
+  publisher={Wiley Online Library}
+}

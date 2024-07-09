@@ -1,0 +1,10 @@
+@article{degabriel2014male,
+  title={Male-biased predation and its effect on paternity skew and life history in a population of common brushtail possums (Trichosurus vulpecula)},
+  author={DeGabriel, Jane L and Moore, Ben D and Foley, William J and Johnson, Christopher N},
+  journal={PLoS One},
+  volume={9},
+  number={11},
+  pages={e111746},
+  year={2014},
+  publisher={Public Library of Science San Francisco, USA}
+}

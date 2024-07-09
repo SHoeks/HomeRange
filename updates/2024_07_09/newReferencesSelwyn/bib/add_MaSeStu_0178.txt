@@ -1,0 +1,10 @@
+@article{gilfillan2001ecological,
+  title={An ecological study of a population of Pseudantechinus macdonnellensis (Marsupialia: Dasyuridae) in central Australia. I. Invertebrate food supply, diet and reproductive strategy},
+  author={Gilfillan, Sandra L},
+  journal={Wildlife Research},
+  volume={28},
+  number={5},
+  pages={469--480},
+  year={2001},
+  publisher={CSIRO Publishing}
+}

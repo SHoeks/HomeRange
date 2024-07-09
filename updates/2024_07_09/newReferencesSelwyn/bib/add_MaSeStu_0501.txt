@@ -1,0 +1,10 @@
+@article{ward1985behavioural,
+  title={Behavioural responses of lynx to declining snowshoe hare abundance},
+  author={Ward, Richard MP and Krebs, Charles J},
+  journal={Canadian Journal of zoology},
+  volume={63},
+  number={12},
+  pages={2817--2824},
+  year={1985},
+  publisher={NRC Research Press Ottawa, Canada}
+}

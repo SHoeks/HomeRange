@@ -1,0 +1,10 @@
+@article{thompson2009home,
+  title={Home range and habitat of western red-backed voles in the Oregon Cascades},
+  author={Thompson, Rebecca L and Chambers, Carol L and McComb, Brenda C},
+  journal={Northwest Science},
+  volume={83},
+  number={1},
+  pages={46--56},
+  year={2009},
+  publisher={BioOne}
+}

@@ -1,0 +1,10 @@
+@article{burroughs2006cause,
+  title={Cause-specific mortality and survival of white-tailed deer fawns in southwestern lower Michigan},
+  author={Burroughs, Jordan Pusateri and CAMPA III, HENRY and Winterstein, Scott R and Rudolph, Brent A and Moritz, William E},
+  journal={The Journal of wildlife management},
+  volume={70},
+  number={3},
+  pages={743--751},
+  year={2006},
+  publisher={Wiley Online Library}
+}

@@ -1,0 +1,10 @@
+@article{richard2011toward,
+  title={Toward an identification of resources influencing habitat use in a multi-specific context},
+  author={Richard, Emmanuelle and Said, Sonia and Hamann, Jean-Luc and Gaillard, Jean-Michel},
+  journal={PloS one},
+  volume={6},
+  number={12},
+  pages={e29048},
+  year={2011},
+  publisher={Public Library of Science San Francisco, USA}
+}

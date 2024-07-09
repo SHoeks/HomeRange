@@ -1,0 +1,10 @@
+@article{joslin1967movements,
+  title={Movements and home sites of timber wolves in alǵonquin park},
+  author={Joslin, Paul WB},
+  journal={American Zoologist},
+  volume={7},
+  number={2},
+  pages={279--288},
+  year={1967},
+  publisher={Oxford University Press UK}
+}

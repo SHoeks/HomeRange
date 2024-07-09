@@ -1,0 +1,10 @@
+@article{armitage2009home,
+  title={Home range area and shape of yellow-bellied marmots},
+  author={Armitage, Kenneth B},
+  journal={Ethology Ecology \& Evolution},
+  volume={21},
+  number={3-4},
+  pages={195--207},
+  year={2009},
+  publisher={Taylor \& Francis}
+}

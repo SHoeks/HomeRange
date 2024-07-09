@@ -1,0 +1,10 @@
+@article{carranza1991space,
+  title={Space use by red deer in a Mediterranean ecosystem as determined by radio-tracking},
+  author={Carranza, Juan and de Trucios, Sebasti{\'a}n J Hidalgo and Medina, Rosario and Valencia, Juliana and Delgado, Jos{\'e}},
+  journal={Applied Animal Behaviour Science},
+  volume={30},
+  number={3-4},
+  pages={363--371},
+  year={1991},
+  publisher={Elsevier}
+}

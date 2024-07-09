@@ -1,0 +1,10 @@
+@article{jordan2010scent,
+  title={Scent marking within and between groups of wild banded mongooses},
+  author={Jordan, NR and Mwanguhya, F and Kyabulima, S and Ruedi, P and Cant, MA},
+  journal={Journal of Zoology},
+  volume={280},
+  number={1},
+  pages={72--83},
+  year={2010},
+  publisher={Wiley Online Library}
+}

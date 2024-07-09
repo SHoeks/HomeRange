@@ -1,0 +1,9 @@
+@article{boutin1984effect,
+  title={Effect of late winter food addition on numbers and movements of snowshoe hares},
+  author={Boutin, Stan},
+  journal={Oecologia},
+  volume={62},
+  pages={393--400},
+  year={1984},
+  publisher={Springer}
+}

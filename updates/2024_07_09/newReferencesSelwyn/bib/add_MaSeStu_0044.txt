@@ -1,0 +1,10 @@
+@article{boinski1987habitat,
+  title={Habitat use by squirrel monkeys (Saimiri oerstedi) in Costa Rica},
+  author={Boinski, Sue},
+  journal={Folia primatologica},
+  volume={49},
+  number={3-4},
+  pages={151--167},
+  year={1987},
+  publisher={Brill}
+}

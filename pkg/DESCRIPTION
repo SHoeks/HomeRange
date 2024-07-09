@@ -1,9 +1,9 @@
 Package: HomeRange
 Title: This package provides access to the HomeRange dataset
-Version: 1.05
+Version: 1.06
 Authors@R: 
-    person("Selwyn", "Hoeks", , "s.hoeks@science.ru.nl", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Selwyn", "Hoeks", , "selwyn.hoeks@ru.nl", role = c("aut", "cre"))
+Description: Downloads the HomeRange database.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

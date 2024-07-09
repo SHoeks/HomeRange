@@ -1,0 +1,10 @@
+@article{randic2012novel,
+  title={A novel mammalian social structure in Indo-Pacific bottlenose dolphins (Tursiops sp.): complex male alliances in an open social network},
+  author={Randic, Srjan and Connor, Richard C and Sherwin, William B and Krutzen, Michael},
+  journal={Proceedings of the Royal Society B: Biological Sciences},
+  volume={279},
+  number={1740},
+  pages={3083--3090},
+  year={2012},
+  publisher={The Royal Society}
+}

@@ -1,0 +1,9 @@
+@article{wang2011sleeping,
+  title={Sleeping site selection of Francois’s langur (Trachypithecus francoisi) in two habitats in Mayanghe National Nature Reserve, Guizhou, China},
+  author={Wang, Shuangling and Luo, Yang and Cui, Guofa},
+  journal={Primates},
+  volume={52},
+  pages={51--60},
+  year={2011},
+  publisher={Springer}
+}

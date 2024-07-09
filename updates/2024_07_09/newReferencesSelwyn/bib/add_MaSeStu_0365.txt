@@ -1,0 +1,9 @@
+@article{pages1988spatial,
+  title={Spatial distribution and interindividual relationships in a nocturnal Malagasy lemur Microcebus murinus.},
+  author={Pages-Feuillade, E},
+  journal={Folia primatologica},
+  volume={50},
+  number={3},
+  pages={204--220},
+  year={1988}
+}

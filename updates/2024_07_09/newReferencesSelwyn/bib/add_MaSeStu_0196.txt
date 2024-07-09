@@ -1,0 +1,8 @@
+@incollection{harris1980home,
+  title={Home ranges and patterns of distribution of foxes (Vulpes vulpes) in an urban area, as revealed by radio tracking},
+  author={Harris, S},
+  booktitle={A handbook on biotelemetry and radio tracking},
+  pages={685--690},
+  year={1980},
+  publisher={Elsevier}
+}
