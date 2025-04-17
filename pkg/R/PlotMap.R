@@ -22,9 +22,11 @@ PlotMap = function(HomeRangeData, DotColor="red") {
                                        HomeRangeData$Longitude, HomeRangeData$Latitude)
   HomeRangeData_plot <- HomeRangeData[!duplicated(HomeRangeData$marker_subset),]
 
-  HR_data_sf <- HomeRangeData_plot[which(!is.na(as.numeric(HomeRangeData_plot$Longitude)) & !is.na(as.numeric(HomeRangeData_plot$Latitude))),]
-  HR_data_sf <- sf::st_as_sf(HR_data_sf, coords = c("Longitude", "Latitude"), crs = WGS84Proj)
-
+  keep = !is.na(HomeRangeData_plot$Longitude) & !is.na(HomeRangeData_plot$Latitude)
+  HomeRangeData_plot <- HomeRangeData_plot[keep,]
+  HomeRangeData_plot <- HomeRangeData_plot[HomeRangeData_plot$Longitude > -180 & HomeRangeData_plot$Longitude < 180,]
+  HomeRangeData_plot <- HomeRangeData_plot[HomeRangeData_plot$Latitude > -90 & HomeRangeData_plot$Latitude < 90,]
+  HR_data_sf <- sf::st_as_sf(HomeRangeData_plot, coords = c("Longitude", "Latitude"), crs = WGS84Proj)
 
   # make plot
   ggplot2::ggplot() +

@@ -6,7 +6,7 @@ if(FALSE){
 
 # install new version
 if(FALSE){
-  install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.11.tar.gz",
+  install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.12.tar.gz",
                    repos=NULL,
                    method="libcurl")
 }

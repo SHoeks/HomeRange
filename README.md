@@ -48,7 +48,7 @@ Selwyn Hoeks
 
 ```r
 # install the HomeRange R package
-install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.11.tar.gz", 
+install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.12.tar.gz", 
                  repos=NULL, 
                  method="libcurl")
 # alternatively, install the HomeRange R package using install_github:
@@ -58,7 +58,7 @@ install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.11.ta
 
 # load package into R
 library('HomeRange') # prints version
-#> HomeRange pkg version: 1.11
+#> HomeRange pkg version: 1.12
 #> HomeRange database version: 2025_04_11
 
 # package information
