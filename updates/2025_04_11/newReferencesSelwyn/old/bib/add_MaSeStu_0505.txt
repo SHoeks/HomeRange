@@ -1,0 +1,10 @@
+@article{watrous2006predicting,
+  title={Predicting minimum habitat characteristics for the Indiana bat in the Champlain Valley},
+  author={Watrous, Kristen S and Donovan, Therese M and Mickey, Ruth M and Darling, Scott R and Hicks, Alan C and Von Oettingen, Susanna L},
+  journal={The Journal of wildlife management},
+  volume={70},
+  number={5},
+  pages={1228--1237},
+  year={2006},
+  publisher={Wiley Online Library}
+}

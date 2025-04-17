@@ -1,0 +1,10 @@
+@article{stahl2002factors,
+  title={Factors affecting lynx predation on sheep in the French Jura},
+  author={Stahl, P and Vandel, JM and Ruette, S and Coat, L and Coat, Y and Balestra, L},
+  journal={Journal of Applied Ecology},
+  volume={39},
+  number={2},
+  pages={204--216},
+  year={2002},
+  publisher={Wiley Online Library}
+}

@@ -1,0 +1,8 @@
+@article{fitzgerald1981spatial,
+  title={Spatial organization and ecology of a sparse population of house mice (Mus musculus) in a New Zealand forest},
+  author={Fitzgerald, BM and Karl, BJ and Moller, H},
+  journal={The Journal of Animal Ecology},
+  pages={489--518},
+  year={1981},
+  publisher={JSTOR}
+}

@@ -1,0 +1,10 @@
+@article{rood1975population,
+  title={Population dynamics and food habits of the banded mongoose},
+  author={ROOD, JON P},
+  journal={African Journal of Ecology},
+  volume={13},
+  number={2},
+  pages={89--111},
+  year={1975},
+  publisher={Wiley Online Library}
+}

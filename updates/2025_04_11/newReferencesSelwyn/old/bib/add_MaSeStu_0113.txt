@@ -1,0 +1,10 @@
+@inproceedings{dawo2013spatial,
+  title={Spatial organization reflects the social organization in Bechstein's bats},
+  author={Dawo, Barbara and Kalko, Elisabeth KV and Dietz, Markus},
+  booktitle={Annales Zoologici Fennici},
+  volume={50},
+  number={6},
+  pages={356--370},
+  year={2013},
+  organization={BioOne}
+}

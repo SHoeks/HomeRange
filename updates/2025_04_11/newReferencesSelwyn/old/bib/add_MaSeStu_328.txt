@@ -1,0 +1,8 @@
+@incollection{montgomery1975impact,
+  title={Impact of sloths on Neotropical forest energy flow and nutrient cycling},
+  author={Montgomery, GG and Sunquist, ME},
+  booktitle={Tropical ecological systems: trends in terrestrial and aquatic research},
+  pages={69--98},
+  year={1975},
+  publisher={Springer}
+}

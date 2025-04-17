@@ -1,0 +1,8 @@
+@article{hellgren1987home,
+  title={Home range and movements of winter-active black bears in the Great Dismal Swamp},
+  author={Hellgren, Eric C and Vaughan, Michael R},
+  journal={Bears: Their Biology and Management},
+  pages={227--234},
+  year={1987},
+  publisher={JSTOR}
+}

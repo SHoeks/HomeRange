@@ -6,7 +6,7 @@ if(FALSE){
 
 # install new version
 if(FALSE){
-  install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.07.tar.gz",
+  install.packages("https://github.com/SHoeks/HomeRange/raw/main/HomeRange_1.11.tar.gz",
                    repos=NULL,
                    method="libcurl")
 }
@@ -21,6 +21,7 @@ HomeRangeVersion()
 # test functions
 HomeRangeData <- GetHomeRangeData(IncludeReferences = TRUE)
 head(HomeRangeData)
+dim(HomeRangeData)
 
 # view metadata file
 ViewMetaData()

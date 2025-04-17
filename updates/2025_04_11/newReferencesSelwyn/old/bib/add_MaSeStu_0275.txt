@@ -1,0 +1,10 @@
+@article{layne1954biology,
+  title={The biology of the red squirrel, Tamiasciurus hudsonicus loquax (Bangs), in central New York},
+  author={Layne, James N},
+  journal={Ecological Monographs},
+  volume={24},
+  number={3},
+  pages={228--267},
+  year={1954},
+  publisher={JSTOR}
+}

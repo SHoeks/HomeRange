@@ -1,0 +1,10 @@
+@article{ables1969home,
+  title={Home-range studies of red foxes (Vulpes vulpes)},
+  author={Ables, Ernest D},
+  journal={Journal of Mammalogy},
+  volume={50},
+  number={1},
+  pages={108--120},
+  year={1969},
+  publisher={American Society of Mammalogists 810 East 10th Street, PO Box 1897, Lawrence~…}
+}

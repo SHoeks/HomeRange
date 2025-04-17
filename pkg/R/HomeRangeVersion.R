@@ -11,5 +11,5 @@
 HomeRangeVersion = function() {
   info <- packageDescription("HomeRange")
   message("HomeRange pkg version: ",info$Version)
-  message("HomeRange database version: ","2024_07_09")
+  message("HomeRange database version: ","2025_04_11")
 }

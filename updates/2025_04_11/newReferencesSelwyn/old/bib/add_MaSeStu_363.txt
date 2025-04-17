@@ -1,0 +1,10 @@
+@article{owen1975social,
+  title={The social ethology of the White Rhinoceros Ceratotberium simum (Burchell 1817*)},
+  author={Owen-Smith, R Norman},
+  journal={Zeitschrift f{\"u}r Tierpsychologie},
+  volume={38},
+  number={4},
+  pages={337--384},
+  year={1975},
+  publisher={Wiley Online Library}
+}

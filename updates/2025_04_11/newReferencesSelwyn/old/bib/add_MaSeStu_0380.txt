@@ -1,0 +1,10 @@
+@article{plotz2016standardising,
+  title={Standardising home range studies for improved management of the critically endangered black rhinoceros},
+  author={Plotz, Roan D and Grecian, W James and Kerley, Graham IH and Linklater, Wayne L},
+  journal={PLoS One},
+  volume={11},
+  number={3},
+  pages={e0150571},
+  year={2016},
+  publisher={Public Library of Science San Francisco, CA USA}
+}

@@ -1,0 +1,9 @@
+@article{haines2006first,
+  title={First ocelot (Leopardus pardalis) monitored with GPS telemetry},
+  author={Haines, Aaron M and Grassman, Lon I and Tewes, Michael E and Jane{\v{c}}ka, Jan E},
+  journal={European Journal of Wildlife Research},
+  volume={52},
+  pages={216--218},
+  year={2006},
+  publisher={Springer}
+}

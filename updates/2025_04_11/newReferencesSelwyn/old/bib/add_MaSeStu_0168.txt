@@ -1,0 +1,9 @@
+@article{frafjord1992home,
+  title={Home range and movements of arctic foxes Alopex lagopus in Svalbard},
+  author={Frafjord, Karl and Prestrud, P{\aa}l},
+  journal={Polar Biology},
+  volume={12},
+  pages={519--526},
+  year={1992},
+  publisher={Springer}
+}

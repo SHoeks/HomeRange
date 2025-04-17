@@ -1,0 +1,9 @@
+@article{dammhahn2005social,
+  title={Social system of Microcebus berthae, the world’s smallest primate},
+  author={Dammhahn, Melanie and Kappeler, Peter M},
+  journal={International Journal of Primatology},
+  volume={26},
+  pages={407--435},
+  year={2005},
+  publisher={Springer}
+}

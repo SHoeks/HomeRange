@@ -1,0 +1,9 @@
+@article{kawamichi1979spatial,
+  title={Spatial organization and territory of three shrews (Tupaia glis)},
+  author={Kawamichi, Takeo and Kawamichi, Mieko},
+  journal={Animal Behaviour},
+  volume={27},
+  pages={381--393},
+  year={1979},
+  publisher={Elsevier}
+}

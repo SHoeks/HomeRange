@@ -1,0 +1,9 @@
+@article{buchanan1991field,
+  title={A field study on the red-bellied tamarin, Saguinus l. labiatus, in Bolivia},
+  author={Buchanan-Smith, Hannah M},
+  journal={International Journal of Primatology},
+  volume={12},
+  pages={259--276},
+  year={1991},
+  publisher={Springer}
+}

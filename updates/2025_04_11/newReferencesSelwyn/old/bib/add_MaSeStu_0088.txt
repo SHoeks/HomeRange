@@ -1,0 +1,8 @@
+@article{clevenger1990movement,
+  title={Movement and activity patterns of a European brown bear in the Cantabrian Mountains, Spain},
+  author={Clevenger, Anthony P and Purroy, Francisco J and Pelton, Michael R},
+  journal={Bears: Their Biology and Management},
+  pages={205--211},
+  year={1990},
+  publisher={JSTOR}
+}

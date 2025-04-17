@@ -1,0 +1,9 @@
+@article{angerbjorn1997home,
+  title={Home range pattern in arctic foxes in Sweden},
+  author={Angerbjorn, ANDERS and Stroman, JOHAN and Becker, D},
+  journal={Journal of Wildlife Research},
+  volume={2},
+  number={1},
+  pages={9--14},
+  year={1997}
+}

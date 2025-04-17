@@ -1,0 +1,10 @@
+@article{fedigan1988spider,
+  title={Spider monkey home ranges: a comparison of radio telemetry and direct observation},
+  author={Fedigan, Linda M and Fedigan, Laurence and Chapman, Colin and Glander, Kenneth E},
+  journal={American Journal of Primatology},
+  volume={16},
+  number={1},
+  pages={19--29},
+  year={1988},
+  publisher={Wiley Online Library}
+}

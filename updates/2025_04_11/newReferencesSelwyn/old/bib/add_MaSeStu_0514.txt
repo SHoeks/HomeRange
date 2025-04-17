@@ -1,0 +1,9 @@
+@article{whiten1987behavioral,
+  title={The behavioral ecology of mountain baboons},
+  author={Whiten, A and Byrne, Richard William and Henzi, SP},
+  journal={International Journal of Primatology},
+  volume={8},
+  pages={367--388},
+  year={1987},
+  publisher={Springer}
+}

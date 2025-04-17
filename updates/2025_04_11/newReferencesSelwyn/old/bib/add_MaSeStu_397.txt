@@ -1,0 +1,10 @@
+@article{raemaeken1979ecology,
+  title={Ecology of sympatric gibbons},
+  author={Raemaeken, Jeremy},
+  journal={Folia Primatologica},
+  volume={31},
+  number={3},
+  pages={227--245},
+  year={1979},
+  publisher={Brill}
+}

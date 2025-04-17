@@ -1,0 +1,10 @@
+@article{berman1983social,
+  title={The social behaviour of free-ranging suburban dogs},
+  author={Berman, Michael and Dunbar, Ian},
+  journal={Applied Animal Ethology},
+  volume={10},
+  number={1-2},
+  pages={5--17},
+  year={1983},
+  publisher={Elsevier}
+}

@@ -1,0 +1,9 @@
+@article{lovari2013habitat,
+  title={Habitat richness affects home range size in a monogamous large rodent},
+  author={Lovari, Sandro and Sforzi, Andrea and Mori, Emiliano},
+  journal={Behavioural processes},
+  volume={99},
+  pages={42--46},
+  year={2013},
+  publisher={Elsevier}
+}

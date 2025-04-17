@@ -1,0 +1,10 @@
+@article{barta1989demography,
+  title={Demography of sympatric arctic and snowshoe hare populations: an experimental assessment of interspecific competition},
+  author={Barta, Robert M and Keith, Lloyd B and Fitzgerald, Shannon M},
+  journal={Canadian journal of zoology},
+  volume={67},
+  number={11},
+  pages={2762--2775},
+  year={1989},
+  publisher={NRC Research Press Ottawa, Canada}
+}

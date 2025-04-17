@@ -1,0 +1,8 @@
+@article{michael1965movements,
+  title={Movements of white-tailed deer on the Welder Wildlife Refuge},
+  author={Michael, Edwin D},
+  journal={The Journal of Wildlife Management},
+  pages={44--52},
+  year={1965},
+  publisher={JSTOR}
+}

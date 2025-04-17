@@ -1,0 +1,10 @@
+@article{de2008landscape,
+  title={Do landscape heterogeneity and water distribution explain aspects of elephant home range in southern Africa's arid savannas?},
+  author={De Beer, Y and Van Aarde, RJ},
+  journal={Journal of Arid Environments},
+  volume={72},
+  number={11},
+  pages={2017--2025},
+  year={2008},
+  publisher={Elsevier}
+}

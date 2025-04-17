@@ -1,0 +1,10 @@
+@article{quin1995population,
+  title={Population ecology of the squirrel glider (Petaurus norfolcensis) and the sugar glider (P. breviceps)(Maruspialia: Petauridae) at Limeburners Creek, on the central north coast of New South Wales},
+  author={Quin, Darren G},
+  journal={Wildlife Research},
+  volume={22},
+  number={4},
+  pages={471--505},
+  year={1995},
+  publisher={CSIRO Publishing}
+}

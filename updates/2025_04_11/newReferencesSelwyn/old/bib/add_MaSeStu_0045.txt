@@ -1,0 +1,6 @@
+@article{boller1991home,
+  title={Home range size, movement behavior, and territoriality in the beaver},
+  author={Boller, Lawrence J},
+  year={1991},
+  journal={unknown}
+}

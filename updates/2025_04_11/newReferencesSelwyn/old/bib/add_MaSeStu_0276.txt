@@ -1,0 +1,10 @@
+@article{le1999seasonal,
+  title={Seasonal movements of giraffes in Niger},
+  author={Le Pendu, Yvonnick and Ciofolo, Isabelle},
+  journal={Journal of Tropical Ecology},
+  volume={15},
+  number={3},
+  pages={341--353},
+  year={1999},
+  publisher={Cambridge University Press}
+}

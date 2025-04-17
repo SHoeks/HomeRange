@@ -1,0 +1,10 @@
+@article{barlow2011female,
+  title={Female tiger Panthera tigris home range size in the Bangladesh Sundarbans: the value of this mangrove ecosystem for the species’ conservation},
+  author={Barlow, Adam CD and Smith, James LD and Ahmad, Ishtiaq U and Hossain, Abu NM and Rahman, Mizan and Howlader, Alam},
+  journal={Oryx},
+  volume={45},
+  number={1},
+  pages={125--128},
+  year={2011},
+  publisher={Cambridge University Press}
+}

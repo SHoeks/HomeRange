@@ -1,0 +1,10 @@
+@article{suckling1984population,
+  title={Population ecology of the sugar glider, Petaurus breviceps, in a system of fragmented habitats},
+  author={Suckling, GC},
+  journal={Wildlife Research},
+  volume={11},
+  number={1},
+  pages={49--75},
+  year={1984},
+  publisher={CSIRO Publishing}
+}

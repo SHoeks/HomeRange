@@ -1,0 +1,9 @@
+@article{ikeda1983range,
+  title={Range size and activity pattern of three nocturnal carnivores in Ethiopia by radio-telemetry},
+  author={Ikeda, Hiroshi and Izawa, Masako and Baba, Minoru and Takeishi, Masayoshi and Doi, Teruo and Ono, Yuichi},
+  journal={Journal of Ethology},
+  volume={1},
+  pages={109--111},
+  year={1983},
+  publisher={Springer}
+}

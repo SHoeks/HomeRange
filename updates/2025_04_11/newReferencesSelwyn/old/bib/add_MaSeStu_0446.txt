@@ -1,0 +1,10 @@
+@inproceedings{sidorovich2011badger,
+  title={Badger Meles meles spatial structure and diet in an area of low earthworm biomass and high predation risk},
+  author={Sidorovich, Vadim E and Rotenko, Irina I and Krasko, Dmitry A},
+  booktitle={Annales Zoologici Fennici},
+  volume={48},
+  number={1},
+  pages={1--16},
+  year={2011},
+  organization={BioOne}
+}

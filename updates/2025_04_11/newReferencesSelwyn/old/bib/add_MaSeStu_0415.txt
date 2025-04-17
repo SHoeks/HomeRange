@@ -1,0 +1,10 @@
+@article{rouco2017movements,
+  title={Movements and habitat preferences of pests help to improve population control: the case of common brushtail possums in a New Zealand dryland ecosystem},
+  author={Rouco, Carlos and Norbury, Grant L and Anderson, Dean P},
+  journal={Pest Management Science},
+  volume={73},
+  number={2},
+  pages={287--294},
+  year={2017},
+  publisher={Wiley Online Library}
+}

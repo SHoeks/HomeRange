@@ -1,0 +1,10 @@
+@article{crete1989approximation,
+  title={Approximation of K carrying capacity for moose in eastern Quebec},
+  author={Crete, Michel},
+  journal={Canadian Journal of Zoology},
+  volume={67},
+  number={2},
+  pages={373--380},
+  year={1989},
+  publisher={NRC Research Press Ottawa, Canada}
+}

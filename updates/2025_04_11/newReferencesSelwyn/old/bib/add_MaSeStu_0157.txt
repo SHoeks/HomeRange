@@ -1,0 +1,8 @@
+@article{ferrari1996ecology,
+  title={ECOLOGY OF THE" SOUTHERN" MARMOSETS},
+  author={Ferrari, Stephen F and Corr{\^e}a, H K{\'a}tia M and Coutinho, Paulo EG},
+  journal={Adaptive Radiations of Neotropical Primates},
+  pages={157},
+  year={1996},
+  publisher={Springer Science \& Business Media}
+}

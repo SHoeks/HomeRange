@@ -1,0 +1,10 @@
+@article{gliwicz1997space,
+  title={Space use in the root vole: basic patterns and variability},
+  author={Gliwicz, Joanna},
+  journal={Ecography},
+  volume={20},
+  number={4},
+  pages={383--389},
+  year={1997},
+  publisher={Wiley Online Library}
+}

@@ -1,0 +1,10 @@
+@article{laws2003nocturnal,
+  title={Nocturnal home ranges and social interactions of the brushtailed rock-wallaby Petrogale penicillata at Hurdle Creek, Queensland.},
+  author={Laws, Rebecca J and Goldizen, Anne W},
+  journal={Australian Mammalogy},
+  volume={25},
+  number={2},
+  pages={169--176},
+  year={2003},
+  publisher={CSIRO Publishing}
+}

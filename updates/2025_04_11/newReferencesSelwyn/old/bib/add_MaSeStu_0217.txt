@@ -1,0 +1,10 @@
+@article{how1981population,
+  title={Population Parameters of Two Congeneric Possums, Trichosurus spp., in Norh Eastern New South Wales},
+  author={How, RA},
+  journal={Australian Journal of Zoology},
+  volume={29},
+  number={2},
+  pages={205--215},
+  year={1981},
+  publisher={CSIRO Publishing}
+}

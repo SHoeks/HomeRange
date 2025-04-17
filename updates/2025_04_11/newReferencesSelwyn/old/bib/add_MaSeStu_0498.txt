@@ -1,0 +1,10 @@
+@article{wadsworth1972observations,
+  title={Observations of the Colorado chipmunk in southeastern Utah},
+  author={Wadsworth, Carl E},
+  journal={The Southwestern Naturalist},
+  volume={16},
+  number={3/4},
+  pages={451--454},
+  year={1972},
+  publisher={JSTOR}
+}

@@ -1,0 +1,10 @@
+@article{sparks2005foraging,
+  title={Foraging habitat of the Indiana bat (Myotis sodalis) at an urban-rural interface},
+  author={Sparks, Dale W and Ritzi, Christopher M and Duchamp, Joseph E and Whitaker, John O},
+  journal={Journal of Mammalogy},
+  volume={86},
+  number={4},
+  pages={713--718},
+  year={2005},
+  publisher={American Society of Mammalogists}
+}

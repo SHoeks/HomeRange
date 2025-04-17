@@ -1,0 +1,8 @@
+@article{daniels2001ecology,
+  title={Ecology and genetics of wild-living cats in the north-east of Scotland and the implications for the conservation of the wildcat},
+  author={Daniels, Mike J and Beaumont, Mark A and Johnson, Paul J and Balharry, David and Macdonald, David W and Barratt, Elizabeth},
+  journal={Journal of Applied Ecology},
+  pages={146--161},
+  year={2001},
+  publisher={JSTOR}
+}

@@ -6,5 +6,5 @@
 .onAttach <- function(libname, pkgname) {
   info <- packageDescription("HomeRange")
   packageStartupMessage("HomeRange pkg version: ",info$Version)
-  packageStartupMessage("HomeRange database version: ","2024_07_09")
+  packageStartupMessage("HomeRange database version: ","2025_04_11")
 }

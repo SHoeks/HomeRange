@@ -1,0 +1,10 @@
+@article{amstrup2000movements,
+  title={Movements and distribution of polar bears in the Beaufort Sea},
+  author={Amstrup, Steven C and Durner, George M and Stirling, Ian and Lunn, Nicholas J and Messier, F},
+  journal={Canadian Journal of Zoology},
+  volume={78},
+  number={6},
+  pages={948--966},
+  year={2000},
+  publisher={NRC Research Press Ottawa, Canada}
+}

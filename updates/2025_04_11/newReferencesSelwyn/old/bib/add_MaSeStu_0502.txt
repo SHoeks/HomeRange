@@ -1,0 +1,10 @@
+@article{ward1990life,
+  title={Life-History of the Eastern Pygmy-Possum, Cercartetus-Nanus (Burramyidae, Marsupialia), in South-Eastern Australia},
+  author={Ward, SJ},
+  journal={Australian Journal of Zoology},
+  volume={38},
+  number={3},
+  pages={287--304},
+  year={1990},
+  publisher={CSIRO Publishing}
+}
